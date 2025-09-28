@@ -6,7 +6,7 @@ I love building web apps, scripting tools, and sharing what I learn.
 Currently, I’m working on:  
 - ⚡ **Batch Script Projects** – A collection of Windows automation scripts  
 - 🌐 **Web Applications** – Building custom apps for learning & productivity  
-- 📚 **Educational Content** – Tutorials, videos, and articles  
+- 📚 **Educational Content** – Tutorials, videos, and articles
 
 ---
 
