@@ -18,7 +18,6 @@ Currently, I’m working on:
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-amer/)
-<!-- 🌐 [My Website](https://yourwebsite.com)  -->
-<!--  ✉️ Reach me: `your.email@example.com` -->
+- ✉️ Reach me: `ammar@ahsib.com`
 
 ⭐ **Check out my repositories and follow me for updates!**
