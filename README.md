@@ -10,6 +10,25 @@ Currently, I’m working on:
 
 ---
 
+&nbsp;
+
+
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,nodejs,npm,vue,mongodb,mysql,py,docker,md,git,linux,bash,vim,windows,powershell,cloudflare,nginx)
+
+&nbsp;
+
+
+<!--
+
+<details>
+    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+  - [My Experience as Maintainer for Hacktoberfest 2021](https://www.google.com)
+</details>
+-->
+
+
 <!--
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrAmmarAmer&show_icons=true&theme=default)  
@@ -19,5 +38,7 @@ Currently, I’m working on:
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-amer/)
 - ✉️ Reach me: `ammar@ahsib.com`
+
+&nbsp;
 
 ⭐ **Check out my repositories and follow me for updates!**
