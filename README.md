@@ -8,7 +8,6 @@ Currently, I’m working on:
 - 🌐 **Web Applications**       – Building custom apps for learning & productivity  
 - 📚 **Educational Content**    – Tutorials, videos, and articles
 
----
 
 &nbsp;
 
