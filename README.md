@@ -12,7 +12,7 @@ Currently, I’m working on:
 &nbsp;
 
 
-## 🔧 Technologies
+## Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,nodejs,npm,vue,mongodb,mysql,py,docker,md,git,linux,bash,vim,windows,powershell,cloudflare,nginx)
 
@@ -34,7 +34,7 @@ Currently, I’m working on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmmarAmer&layout=compact)  
 -->
 
-## 📫 Connect With Me  
+## Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-amer/)
 - ✉️ Reach me: `ammar@ahsib.com`
 
