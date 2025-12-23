@@ -36,7 +36,6 @@ Currently, I’m working on:
 
 ## Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ammar-amer/)
-- ✉️ Reach me: `ammar@ahsib.com`
 
 &nbsp;
 
